@@ -4,7 +4,4 @@
 
 # hallo
 
-<<<<<<< HEAD
-=======
-
->>>>>>> origin/master
+# branch
